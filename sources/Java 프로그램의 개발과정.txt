@@ -1,0 +1,30 @@
+D:\dev\java_se\sources
+
+Eclipse 설치시 비트 설정은 JDK의 비트와 동일하게
+
+ctrl + shift + f => 자바 명령어 정렬
+
+ctrl + F11 => 실행(Run) 단축기
+
+https://tomjangho.blog.me/221298260639 ( 깃허브 팁 )
+
+https://drunkenpolarbear.tistory.com/18 ( 이것이 자바다 ppt )
+
+# Java 프로그램의 개발과정
+1. JDK 설치 (JAVA_HOME 환경변수의 생성과 path 설정)
+
+2. 소스코드 작성
+ - 확장자가 .java인 파일
+ - Java 언어의 문법에 맞춰서 작성되는 파일
+ - 소스코드 -> 원시코드 
+
+3. 컴파일
+ - JDK의 bin 디렉토리에 설치된 javac.exe 실행 파일을 사용하여 수행
+ - javac.exe 소스코드명(확장자 포함)
+ - javac.exe Hello.java
+ - 문법검사(Java 언어의 문법을 검사)
+ - 문법검사에서 이상이 없다면 Java 프로그램의 실행파일인 클래스 파일을 생성 (소스코드명.class)
+
+4. 실행
+ - JDK의 bin 디렉토리에 설치된 java.exe 실행 파일을 사용하여 수행
+ - Java.exe 클래스파일명(.class 생략)

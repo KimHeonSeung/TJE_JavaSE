@@ -1,0 +1,18 @@
+
+public class Null {
+	public static void main(String[] args) {
+		String strNull = null;
+		System.out.printf("strNull = %s\n", strNull);
+		
+		Integer integerNull = null;
+		System.out.printf("integerNull = %d\n", integerNull);
+		
+		// int intNull = (Integer)null;
+		// System.out.printf("intNull = %s\n", intNull);
+		
+		Object objNull = null;
+		System.out.printf("objNull = %s\n", objNull);
+		
+		
+	}
+}

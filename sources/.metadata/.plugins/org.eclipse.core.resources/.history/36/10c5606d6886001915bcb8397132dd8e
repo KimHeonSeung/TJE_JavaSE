@@ -1,0 +1,14 @@
+
+public class Null {
+	public static void main(String[] args) {
+		String strNull = null;
+		System.out.printf("strNull = %s\n", strNull);
+		
+		Integer integerNull = null;
+		System.out.printf("integerNull = %s\n", integerNull);
+		
+		int intNull = null;
+		
+		
+	}
+}

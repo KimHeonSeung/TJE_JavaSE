@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Class_25_Static&apos; to &apos;Singletone_Ex&apos;&#x0D;&#x0A;- Original project: &apos;a&apos;&#x0D;&#x0A;- Original element: &apos;Class_25_Static&apos;&#x0D;&#x0A;- Renamed element: &apos;Singletone_Ex&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Class_25_Static&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Class_25_Static.java[Class_25_Static" matchStrategy="1" name="Singletone_Ex" qualified="false" references="true" similarDeclarations="false" stamp="1553668330595" textual="false" version="1.0"/>
+</session>

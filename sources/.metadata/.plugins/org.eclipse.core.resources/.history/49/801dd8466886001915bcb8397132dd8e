@@ -1,0 +1,9 @@
+
+public class Null {
+	public static void main(String[] args) {
+		String strNull = null;
+		System.out.printf("strNull = %s", strNull);
+		
+		
+	}
+}
